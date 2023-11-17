@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 45c6feee05d5c0b46aee8c49d3f6be4a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - wallPrefab: {fileID: 7790608314527532385, guid: a09c9a8f4bda2dd41831036f47797717, type: 3}
+  - brickPrefab: {fileID: 2716480025611090529, guid: 10ae44a36752fdf45a05f4b21699c491, type: 3}
+  - unBrickPrefab: {fileID: 4666443821079605721, guid: e479b736382e81e438e482fe85aadc78, type: 3}
+  - startPointPrefab: {fileID: 6868422084812735623, guid: 6efaa654239a7c248b0cd43759bdcb5e, type: 3}
+  - finishBoxPrefab: {fileID: 6372517762226726581, guid: 3ba86f96cf618314d83dd932f191a608, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
